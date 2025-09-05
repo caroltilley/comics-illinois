@@ -37,7 +37,7 @@ author: Carol Tilley
 # e.g. relative path "/assets/comics-illinois.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vS3afqkfrEgApbtkuypOOmx9UtYNdpuejjtiTq6A12yi4i5JgIPu8yfWVc1Jn4DwlGZmxjvis0ru0ii/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/caroltilley/comics-illinois/refs/heads/main/assets/comics-illinois.csv"
-metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS3afqkfrEgApbtkuypOOmx9UtYNdpuejjtiTq6A12yi4i5JgIPu8yfWVc1Jn4DwlGZmxjvis0ru0ii/pubhtml"
+metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS3afqkfrEgApbtkuypOOmx9UtYNdpuejjtiTq6A12yi4i5JgIPu8yfWVc1Jn4DwlGZmxjvis0ru0ii/pub?output=csv"
 
 ##########
 # Site/Organization Branding 
