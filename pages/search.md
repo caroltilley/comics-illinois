@@ -1,7 +1,7 @@
 ---
 title: Site Search
-layout: search
-permalink: /page/
+layout: page
+permalink: /search/
 
 ## Google Search
 <script async src="https://cse.google.com/cse.js?cx=e788795b6b54f4738">
