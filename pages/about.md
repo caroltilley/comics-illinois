@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="(https://www.dropbox.com/scl/fi/zd2z4o7cpy0nold7lzuyx/ctc-l-comics-float-1950-CT0133321706.png?rlkey=aj7b8n0vls3xk2j4plo9b4gf7&dl=0)" %}
 
 ## About CollectionBuilder-Sheets
 
