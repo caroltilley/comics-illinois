@@ -43,8 +43,8 @@ metadata-csv: "https://raw.githubusercontent.com/caroltilley/comics-illinois/ref
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: ""
-# organization-link: 
+organization-name: School of Information Sciences, University of Illinois 
+organization-link: https://ischool.illinois.edu
 # organization-logo-banner: 
 # organization-logo-nav: 
 
@@ -52,7 +52,7 @@ metadata-csv: "https://raw.githubusercontent.com/caroltilley/comics-illinois/ref
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: false 
+noindex: false 
 
 ##########
 # BUILD SETTINGS 
