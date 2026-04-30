@@ -8,7 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-
+## About Comics in Illinois
+This project is created and maintained by [Carol Tilley] (https://caroltilley.net), [Associate Professor, School of Information Sciences, University of Illinois] (https://ischool.illinois.edu/people/carol-tilley). It is intended to showcase the rich history of comics - including the authorship, production, distribution, readership, and related activities - in the state of Illinois, particularly during the 20th century. This project is a work-in-progress. Please check back for updates.  
 
 ## About CollectionBuilder-Sheets
 
