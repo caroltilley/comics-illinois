@@ -14,8 +14,6 @@ This project is created and maintained by [Carol Tilley](https://caroltilley.net
 
 
 
-{:.text-center}
-
 
 
 ## Learn More about CollectionBuilder-Sheets
